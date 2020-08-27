@@ -118,8 +118,6 @@ switch (uMsg)
         // lowercase letters and 12 uppercase letters.) 
         xClientMax = 48 * xChar + 12 * xUpper; 
  
-        return 0; 
- 
     case WM_SIZE: 
  
         // Retrieve the dimensions of the client area. 
